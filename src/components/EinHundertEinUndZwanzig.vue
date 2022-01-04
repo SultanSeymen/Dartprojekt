@@ -5,10 +5,10 @@
         </div>
         <div class="container">
             <div id="throwWay">
-                <label for="">T20 - T11 - D14</label>
+                <label for="">D25 - D25 - D16</label>
             </div>
             <div id="leftScore">
-                <label for="">121</label>
+                <label for="">132</label>
             </div>
             <div id="scoreInput">
                 <form action="#" method="post">
