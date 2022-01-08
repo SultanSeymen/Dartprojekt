@@ -8,7 +8,7 @@
                 <label for="">D25 - D25 - D16</label>
             </div>
             <div id="leftScore">
-                <label for="">132</label>
+                <label for="">{{ scoreBeginn }}</label>
             </div>
             <div id="scoreInput">
                 <form action="#" method="post">
@@ -23,6 +23,10 @@
 </template>
 
 <script>
+import Startseite121 from "./Startseite121.vue"
+
+
+const scoreBeginn = Startseite121.getScore();
 
 let array =
 [

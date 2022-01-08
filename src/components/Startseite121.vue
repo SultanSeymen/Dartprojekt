@@ -48,6 +48,11 @@ export default {
   name: 'Startseite121',
   components: {
     EinHundertEinUndZwanzig
+  },
+  data() {
+      return{
+        scoreBeginn: scoreBeginn 
+      }
   }
 }
 
